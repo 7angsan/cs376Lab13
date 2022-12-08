@@ -37,7 +37,7 @@ void robotPrintAscii(void)
 	printBlanks(10, round);
   	printf("     i_i    \n");
 	printBlanks(10, round);
-	printf("    [r_r]   \n");
+	printf("    [u_u]   \n");
 	printBlanks(10, round);
 	printf("   /|___|\\ \n");
 	printBlanks(10, round);
